@@ -11,6 +11,7 @@ saveDialog = SaveAs(title='Save As (filename gives image type)')
 openDialog = Directory(title='Select Image Directory To Open')
 appname = 'PyPhoto 1.0: '
 
+# testing 123
 
 class ScrolledCanvas(Canvas):
     """
